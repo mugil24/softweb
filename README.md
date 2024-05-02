@@ -29,6 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
+## home.html 
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -209,9 +210,7 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
-```
-```
+## person.html
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -379,9 +378,7 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
-```
-```
+## PRODUCT.html
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -538,8 +535,8 @@ Publish the website in the given URL.
 </footer>
 </body>
 </html>
-```
-``<html>
+## contact.html
+<html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title> Contact Page </title>
@@ -763,8 +760,7 @@ Publish the website in the given URL.
         <center> Designed and Developed by VAANMUGIL V S 212221040174</center>
     </footer>
 </body>
-</html>`
-
+</html>
 ```
 
 
@@ -773,5 +769,6 @@ Publish the website in the given URL.
 ![alt text](<Screenshot 2024-04-30 144548.png>)
 ![alt text](<Screenshot 2024-04-30 144607.png>)
 ![alt text](<Screenshot 2024-04-30 144621.png>)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
